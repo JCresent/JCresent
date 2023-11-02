@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Justin Cresent
-- 👀 I’m interested in software engineering and cybersecurity. 
-- 🌱 I’m currently learning C++
-- Know Java, Python, C, C++
-- 💞️ I’m looking to collaborate on anything.
+- 👀 I’m interested in software engineering and cybersecurity
+- Java, Python, C, C++, HTML, JavaScript
 - 📫 How to reach me: JCresent@hotmail.com or 571-969-0674
 
 <!---
