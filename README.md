@@ -1,6 +1,6 @@
 # Hey there!
 - Welcome to my page, my name is Justin Cresent
-- Currently interested in security engineering, cybersecurity, and game development
+- Interested in security engineering, cybersecurity, and game development
 
 ### Currently learning:  
   
