@@ -1,9 +1,12 @@
 # Hey there!
 - Welcome to my page, my name is Justin Cresent
 - Interested in security engineering, cybersecurity, and game development
-  
+---
 #### Major in CS + Minor in DS @ W&M
-> Notable Coursework: Software Development, Operating Systems, Mobile Application Security, Network Systems and Design, Finite Automata
+> Notable Coursework: Software Development, Operating Systems, Mobile Application Security, Network Systems and Design, Finite Automata  
+<img src="https://1000logos.net/wp-content/uploads/2021/07/William-and-Mary-Tribe-logo.png" alt="drawing" width="200"/>
+
+---  
 
 ### Currently learning:  
   
