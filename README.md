@@ -1,6 +1,6 @@
 # Hey there!
 - Welcome to my page, my name is Justin Cresent
-- Interested in full stack, security engineering/cybersecurity, and game development
+- Interested in backend, security engineering/cybersecurity, and game development
 ---
 ### Education
 #### Major in CS & Minor in DS @ William & Mary
