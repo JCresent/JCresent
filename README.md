@@ -28,4 +28,6 @@
  
 ---
 ### Github Overview
-[![@JCresent's Github Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JCresent&theme=monokai)](https://github.com/JCresent)
+[![@JCresent's Github Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JCresent&theme=monokai)](https://github.com/JCresent)   
+
+[![@JCresent's Github Stats](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JCresent&theme=monokai)](https://github.com/JCresent)
