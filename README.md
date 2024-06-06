@@ -1,6 +1,7 @@
 # Hey there!
-- Welcome to my page, my name is Justin Cresent
-- Interested in backend, security engineering/cybersecurity, and game development
+<!-- Welcome to my page, my name is Justin Cresent -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Tiny5&size=24&duration=6000&pause=2000&color=F6F7B6&random=false&width=600&height=40&lines=Welcome+to+my+page%2C+my+name+is+Justin+Cresent)](https://git.io/typing-svg)
+> Interested in fullstack, backend, security engineering/cybersecurity, and game development
 ---
 ### Education
 #### Major in CS & Minor in DS @ William & Mary
