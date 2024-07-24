@@ -1,11 +1,11 @@
 # Hey there!
 <!-- Welcome to my page, my name is Justin Cresent -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Tiny5&size=24&duration=6000&pause=2000&color=F6F7B6&random=false&width=600&height=40&lines=Welcome+to+my+page%2C+my+name+is+Justin+Cresent)](https://git.io/typing-svg)
-> Interested in fullstack, backend, security engineering/cybersecurity, and game development
+> Interested in fullstack, backend, cybersecurity, and game development
 ---
 ### Education
 #### Major in CS & Minor in DS @ William & Mary
-> Notable Coursework: Software Development, Operating Systems, Mobile Application Security, Network Systems and Design, Finite Automata  
+> Notable Coursework: Software Development, Operating Systems, Systems Programming, Mobile Application Security, Network Systems and Design, Web Programming, Applied Machine Learning, Finite Automata  
 <img src="https://1000logos.net/wp-content/uploads/2021/07/William-and-Mary-Tribe-logo.png" alt="drawing" width="200"/>
 
 ---  
