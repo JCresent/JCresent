@@ -5,7 +5,7 @@
 ---
 ### Education
 #### Major in CS & Minor in DS @ William & Mary
-> Notable Coursework: Software Development, Operating Systems, Systems Programming, Mobile Application Security, Network Systems and Design, Web Programming, Applied Machine Learning, Finite Automata  
+> Notable Coursework: Software Engineering, Software Development, Operating Systems, Systems Programming, Mobile Application Security, Network Systems and Design, Web Programming, Applied Machine Learning, Finite Automata  
 <img src="https://1000logos.net/wp-content/uploads/2021/07/William-and-Mary-Tribe-logo.png" alt="drawing" width="200"/>
 
 ---  
