@@ -28,7 +28,12 @@
  ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white) ![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine) 
  
 ---
-### Github Overview
+## Github Overview
 [![@JCresent's Github Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JCresent&theme=monokai)](https://github.com/JCresent)   
 
 [![@JCresent's Github Stats](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JCresent&theme=monokai&exclude=Jupyter%20Notebook)](https://github.com/JCresent)
+
+## Leetcode Stats
+<p align="left">
+  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/JCresent?theme=dark&font=Nunito&ext=heatmap" />  
+</p>
