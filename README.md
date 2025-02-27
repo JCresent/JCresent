@@ -34,7 +34,7 @@
 ## Github Overview
 [![@JCresent's Github Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JCresent&theme=monokai)](https://github.com/JCresent)   
 
-[![@JCresent's Github Stats](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JCresent&theme=monokai&exclude=Jupyter%20Notebook)](https://github.com/JCresent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcresent&layout=compact&bg_color=0d1117&hide_border=true&text_color=fff&title_color=fff&custom_title=Top%20Languages&hide=html,css,nix,dockerfile,tex,jupyter%20notebook,makefile)](https://github.com/jcresent)
 
 ## Leetcode Stats
 <p align="left">
